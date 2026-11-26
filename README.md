@@ -49,6 +49,8 @@ rfsentinel_ble_bridge/
 
 ## Build & Flash (ESP-IDF)
 
+> **Or, use the [web flasher](https://ageofmarcus.github.io/rfsentinel_ble_bridge/)**
+
 From the project root (`rfsentinel_ble_bridge/`) in an initialized ESP-IDF environment:
 
 ```powershell
